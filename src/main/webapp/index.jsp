@@ -1,4 +1,2 @@
-
-Hello everyone,
-WELCOME TO DEVOPS WORLD , AT MIND CIRCUIT WE DO NOT JUST TRAIN , WE BUILD , COACH & MENTOR !  
-I am very exicited to learn.
+Welcoms to DevOps Learning Hub.
+I am learning DevOps with AWS
