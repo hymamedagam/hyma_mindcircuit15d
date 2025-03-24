@@ -1,3 +1,3 @@
-wow, jenkins is a ci/cd automation tool.really
-
+Hi all,
+welcome to devops journey
 
