@@ -1,3 +1,1 @@
-mindcircuit
-Welcoms to DevOps Learning Hub.
-I am learning DevOps with AWS
+Jenkins is a ci/cd automation tool
